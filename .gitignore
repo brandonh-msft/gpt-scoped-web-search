@@ -396,3 +396,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/ElNinoInfo/ChatBot/Properties/launchSettings.json
